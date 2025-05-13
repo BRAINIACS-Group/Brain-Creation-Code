@@ -1,6 +1,6 @@
 # Brain Creation Code
 
-This project was started by Emma Griffiths ca. 2023 and continued by Nicole Tueni (see branches).
+This project was started by Emma Griffiths ca. 2023 and continued by Nicole Tueni.
 
 The code to create a model is found in the file 'create_model' in the 'personal_scripts' folder. 
 Uncomment sections '####### ATROPHY CODE #######' and '####### TUMOR LESION CODE #######' as necessary.
